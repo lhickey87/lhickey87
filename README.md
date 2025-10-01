@@ -6,13 +6,15 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 
-### Technologies:
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+<p align="center">
+  ### Technologies:
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+</p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lhickey87)](https://git.io/streak-stats)
-
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=lhickey87)](https://git.io/streak-stats)
+</p>
 <!--
 **lhickey87/lhickey87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
