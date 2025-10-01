@@ -9,6 +9,10 @@
 ### Technologies:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <!--
 **lhickey87/lhickey87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
