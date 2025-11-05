@@ -13,9 +13,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=lhickey87)]
-
 <!--
 **lhickey87/lhickey87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
