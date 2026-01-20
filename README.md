@@ -12,6 +12,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+### Connect With Me
+- 💼 LinkedIn: <https://www.linkedin.com/in/liamhickey8/>
+- 📧 Email: <hickey.liams@gmail.com>
+
 
 <!--
 **lhickey87/lhickey87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
