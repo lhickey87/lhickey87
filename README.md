@@ -1,4 +1,12 @@
 
+### Current Project:
+I am currently developing [**Kodiak**](https://github.com/lhickey87/Kodiak), a high-performance analytics engine built with columnar data storage and vectorized execution, achieving much faster performance than row-based libraries like Pandas.
+
+### Previous Projects
+- [**OrderBook**](https://github.com/lhickey87/OrderBook) – Built a high-performance Market Data Engine using C++ 17 that ingests raw Nasdaq ITCH 5.0 binary data and maintains an accurate order book, reliably processing over 9.6 million orders per second.
+- [**PaperRank**](https://github.com/lhickey87/paperRank) – Built a semantic research paper recommendation system in Python using Cloud Dataflow, Docker, and BigQuery, processing 19M+ records with sub-second retrieval.
+- [**Linux Shell**](https://github.com/lhickey87/c-shell) – Linux Shell built in C++ that supports piping
+
 
 #### Languages:
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -31,14 +39,6 @@
 ![seaborn](https://img.shields.io/badge/-seaborn-000)
 ![pytest](https://img.shields.io/badge/-pytest-000?&logo=pytest)
 
-
-### Current Project:
-I am currently developing [**Kodiak**](https://github.com/lhickey87/Kodiak), a high-performance analytics engine built with columnar data storage and vectorized execution, achieving much faster performance than row-based libraries like Pandas.
-
-### Previous Projects
-- [**OrderBook**](https://github.com/lhickey87/OrderBook) – Built a high-performance Market Data Engine using C++ 17 that ingests raw Nasdaq ITCH 5.0 binary data and maintains an accurate order book, reliably processing over 9.6 million orders per second.
-- [**PaperRank**](https://github.com/lhickey87/paperRank) – Built a semantic research paper recommendation system in Python using Cloud Dataflow, Docker, and BigQuery, processing 19M+ records with sub-second retrieval.
-- [**Linux Shell**](https://github.com/lhickey87/c-shell) – Linux Shell built in C++ that supports piping
 
 ### Connect With Me
 - 💼 LinkedIn: <https://www.linkedin.com/in/liamhickey8/>
