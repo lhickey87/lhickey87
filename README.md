@@ -1,14 +1,20 @@
 
-### Current Project:
-I am currently developing [**Kodiak**](https://github.com/lhickey87/Kodiak), a high-performance analytics engine built with columnar data storage and vectorized execution, achieving much faster performance than row-based libraries like Pandas.
+## Currently Working On [Kodiak](https://github.com/lhickey87/Kodiak)
+A high-performance analytics engine built with columnar data storage and vectorized execution, achieving much faster performance than row-based libraries like Pandas.
 
-### Previous Projects
-- [**OrderBook**](https://github.com/lhickey87/OrderBook) – Built a high-performance Market Data Engine using C++ 17 that ingests raw Nasdaq ITCH 5.0 binary data and maintains an accurate order book, reliably processing over 9.6 million orders per second.
-- [**PaperRank**](https://github.com/lhickey87/paperRank) – Built a semantic research paper recommendation system in Python using Cloud Dataflow, Docker, and BigQuery, processing 19M+ records with sub-second retrieval.
-- [**Linux Shell**](https://github.com/lhickey87/c-shell) – Linux Shell built in C++ that supports piping
+## Previous Projects
+
+### [**OrderBook**](https://github.com/lhickey87/OrderBook)
+Built a high-performance Market Data Engine using C++17 that ingests raw Nasdaq ITCH 5.0 binary data and maintains an accurate order book, reliably processing over 9.6 million orders per second.
+
+### [**PaperRank**](https://github.com/lhickey87/paperRank)
+Built a semantic research paper recommendation system in Python using Cloud Dataflow, Docker, and BigQuery, processing 19M+ records with sub-second retrieval.
+
+### [**Linux Shell**](https://github.com/lhickey87/c-shell)
+Linux shell built in C++ that supports piping and basic command execution.
 
 
-#### Languages:
+## Languages:
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -17,7 +23,7 @@ I am currently developing [**Kodiak**](https://github.com/lhickey87/Kodiak), a h
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 
 
-#### Tools & Systems:
+## Tools & Systems:
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -28,7 +34,7 @@ I am currently developing [**Kodiak**](https://github.com/lhickey87/Kodiak), a h
 ![Apache Arrow](https://img.shields.io/badge/-Apache%20Arrow-000?&logo=Apache)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
-#### Python & ML
+## Python & ML
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![PyArrow](https://img.shields.io/badge/-PyArrow-000)
