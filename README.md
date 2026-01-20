@@ -37,8 +37,8 @@ I am currently developing [**Kodiak**](https://github.com/lhickey87/Kodiak), a h
 
 ### Previous Projects
 - [**OrderBook**](https://github.com/lhickey87/OrderBook) – Built a high-performance Market Data Engine using C++ 17 that ingests raw Nasdaq ITCH 5.0 binary data and maintains an accurate order book, reliably processing over 9.6 million orders per second.
-- [**PaperRank**](https://github.com/yourusername/paperRank) – Built a semantic research paper recommendation system in Python using Cloud Dataflow, Docker, and BigQuery, processing 19M+ records with sub-second retrieval.
-- [**Linux Shell**](https://github.com/yourusername/c-shell) – Linux Shell built in C++ that supports piping
+- [**PaperRank**](https://github.com/lhickey87/paperRank) – Built a semantic research paper recommendation system in Python using Cloud Dataflow, Docker, and BigQuery, processing 19M+ records with sub-second retrieval.
+- [**Linux Shell**](https://github.com/lhickey87/c-shell) – Linux Shell built in C++ that supports piping
 
 ### Connect With Me
 - 💼 LinkedIn: <https://www.linkedin.com/in/liamhickey8/>
