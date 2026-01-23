@@ -1,8 +1,5 @@
 
-## Currently Working On [Kodiak](https://github.com/lhickey87/Kodiak)
-A high-performance analytics engine built with columnar data storage and vectorized execution, achieving much faster performance than row-based libraries like Pandas.
-
-## Previous Projects
+## Projects
 
 ### [**OrderBook**](https://github.com/lhickey87/OrderBook)
 Built a high-performance Market Data Engine using C++17 that ingests raw Nasdaq ITCH 5.0 binary data and maintains an accurate order book, reliably processing over 9.6 million orders per second.
